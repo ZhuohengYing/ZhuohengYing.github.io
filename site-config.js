@@ -5,6 +5,6 @@
 */
 window.SITE_CONFIG = {
   github: "https://github.com/zoranying-sudo/yingzhuoheng",
-  scholar: "https://scholar.google.com",
-  linkedin: "https://www.linkedin.com"
+  scholar: "",
+  linkedin: ""
 };
